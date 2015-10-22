@@ -10,6 +10,6 @@ The test is written in Gherkin and implemented in Specflow on .Net. Initially it
  *   In order to make sure "RunTool" is configured to use "SpecRun", Check specflow related section in App.config.
 Above configuration should be located in after </configSections> element.
 
- *   Click any test run option in Test Explorer will give you the result after implicit build process. 
+ *   Clicking any test run option in Test Explorer will give you the result after implicit build process. 
 
 
